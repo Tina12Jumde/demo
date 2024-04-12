@@ -49,7 +49,7 @@
 
 
 
-let numbers=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+//let numbers=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
 
 //let odd=[]
 //let even=[]
@@ -82,22 +82,22 @@ let numbers=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
 
 //ARRAY OF OBJECTS
 
-let students=[
-{name:"Tina",age:21,roll:1,class:"FSD"},
-{name:"Piyush",age:21,roll:2,class:"FSD"},
-{name:"Ruchi",age:20,roll:3,class:"FSD"},
-{name:"Srushti",age:19,roll:4,class:"FSD"},
-{name:"Deepak",age:20,roll:5,class:"FSD"},
-{name:"Ajay",age:25,roll:6,class:"FSD"},
-{name:"Rohit",age:24,roll:7,class:"FSD"},
-{name:"Mithansh",age:15,roll:8,class:"FSD"},
-{name:"Kartik",age:18,roll:9,class:"FSD"},
-{name:"Abhishek",age:24,roll:10,class:"FSD"},
-{name:"Kunal",age:23,roll:11,class:"FSD"},
-{name:"Harsh",age:19,roll:12,class:"FSD"},
-{name:"Yash",age:25,roll:13,class:"FSD"},
-{name:"Hardik",age:19,roll:14,class:"FSD"}
-]
+//let students=[
+//{name:"Tina",age:21,roll:1,class:"FSD"},
+//{name:"Piyush",age:21,roll:2,class:"FSD"},
+//{name:"Ruchi",age:20,roll:3,class:"FSD"},
+//{name:"Srushti",age:19,roll:4,class:"FSD"},
+//{name:"Deepak",age:20,roll:5,class:"FSD"},
+//{name:"Ajay",age:25,roll:6,class:"FSD"},
+//{name:"Rohit",age:24,roll:7,class:"FSD"},
+//{name:"Mithansh",age:15,roll:8,class:"FSD"},
+//{name:"Kartik",age:18,roll:9,class:"FSD"},
+//{name:"Abhishek",age:24,roll:10,class:"FSD"},
+//{name:"Kunal",age:23,roll:11,class:"FSD"},
+//{name:"Harsh",age:19,roll:12,class:"FSD"},
+//{name:"Yash",age:25,roll:13,class:"FSD"},
+//{name:"Hardik",age:19,roll:14,class:"FSD"}
+//]
 
 //for of
 
@@ -125,6 +125,79 @@ let students=[
 
 
 // students.map(displayStudents)
+
+
+/* linear search */
+
+//let createRandonNumberArray =(ArrayName,length,Rangelimit)=>{
+ // ArrayName=[]
+ // let randomNumber = 0
+ // for (let i =0; i<length; i++){
+ //  randomNumber=Math.floor(Math.random()+Rangelimit +1) 
+ //  ArrayName[i]=randomNumber
+ // }
+  
+//  }
+ //  let number;
+ // numbers = createRandonNumberArray(number,10,100)
+
+ //  console.log(number)
+
+//BINARY SORTING
+
+
+
+//let num = createRandomNumberArray(10,100)
+
+
+//console.log(num)
+
+//let temp;
+//let i,j=0
+
+//logic
+
+//for(i=0; i < nums.length; i++){
+ // for(j=0; j < nums.length; j++){
+ //   if(nums[j] > nums[j+1]){
+ //     temp = nums[j]
+  //    nums[j] = nums[j+1]
+  //    nums[j+1] = temp
+  //  }
+ // }
+//}
+//console.log("sorted array 1 is :")
+//console.log(nums)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
